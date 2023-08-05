@@ -1,1 +1,0 @@
-console.log('tambah file lagi');
