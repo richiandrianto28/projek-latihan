@@ -1,2 +1,2 @@
 # projek-latihan
-berisi tentang projek fatiha
+berisi tentang projek latihan
